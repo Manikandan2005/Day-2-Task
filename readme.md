@@ -1,0 +1,1 @@
+This repo contains the difference between the document object and window object in javascript.
